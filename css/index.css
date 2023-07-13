@@ -1,0 +1,50 @@
+.titulo{
+    padding-top: 5rem;
+    font-size: 20px;
+    font-weight: 400;
+    color: black;
+    text-align: center;
+    padding-bottom: 3rem;
+}
+
+.caja_individual{
+    margin-top: 2rem;
+    background-color: rgba(217, 217, 217, 1);
+    width: 90%;
+    height: 410px;
+    margin-left: 2rem;
+    padding-top: 5rem;
+}
+
+.foto{
+    width: 15rem;
+    height: 15rem;
+    border-radius: 10rem;
+    background-color: rgba(251, 159, 159, 1);
+    margin: auto;
+}
+
+.username{
+    margin-top: 3rem;
+    text-align: center;
+    font-size: 24px;
+    font-weight: 400;
+}
+
+.Info{
+    font-size: 12px;
+    font-weight: 400;
+    padding: 2.5rem;
+}
+
+.correo{
+    margin-bottom: 1rem;
+}
+
+.telefono{
+    margin-bottom: 1rem;
+}
+
+.compañia{
+    margin-bottom: 1rem;
+}
